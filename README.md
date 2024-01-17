@@ -30,7 +30,9 @@ Customization
 
 
 Note:
+
 Keep your API key secure and do not share the script with the key embedded.
 
 <em>**DISCLAIMER**</em>
+
 This script is for educational purposes. Be aware of OpenAI's usage policies and costs associated with API calls.
