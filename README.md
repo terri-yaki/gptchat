@@ -1,4 +1,4 @@
-README.md for ChatGPT Script
+<h1>README.md for ChatGPT Script</h1>
 Overview
 
 This script is a simple Python-based interface for interacting with OpenAI's GPT models. It allows users to engage in a conversation with an AI, where each response is generated based on the input provided. The script also includes functionality to save the conversation history to a file.
