@@ -28,7 +28,7 @@ Customization
     Change the model by modifying the model parameter in the chatgpt function.
     Modify the save directory by changing save_folder variable.
 
-Note
+<em>**DISCLAIMER**</em>
 
 Keep your API key secure and do not share the script with the key embedded.
 Disclaimer
