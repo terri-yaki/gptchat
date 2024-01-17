@@ -28,6 +28,16 @@ Customization
     Change the model by modifying the model parameter in the chatgpt function.
     Modify the save directory by changing save_folder variable.
 
+Future Milestones
+
+I am constantly working to make this ChatGPT application even more powerful and user-friendly. Here's what's on the horizon:
+
+    Custom GPT Functionality: Soon, you'll be able to feed the model your own information locally. This means more personalized and accurate responses based on the data you provide. It'll be your new personal assistant!
+
+    Conversational GUI: We're developing a graphical user interface to make your interactions with the AI smoother and more intuitive. Just like how you use chatgpt, huggingchat etc,.
+
+    Conversation Management System: Organize and manage your conversations more efficiently with our upcoming conversation management system.
+
 
 Note:
 
