@@ -28,9 +28,9 @@ Customization
     Change the model by modifying the model parameter in the chatgpt function.
     Modify the save directory by changing save_folder variable.
 
-<em>**DISCLAIMER**</em>
 
+Note:
 Keep your API key secure and do not share the script with the key embedded.
-Disclaimer
 
+<em>**DISCLAIMER**</em>
 This script is for educational purposes. Be aware of OpenAI's usage policies and costs associated with API calls.
